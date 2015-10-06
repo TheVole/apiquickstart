@@ -34,7 +34,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="Bloomberglp.Blpapi">
-      <HintPath>..\..\..\API\APIv3\DotnetAPI\v3.7.1.1\bin\Bloomberglp.Blpapi.dll</HintPath>
+      <HintPath>..\..\NoAdmin_DesktopAPI_SDK\API\APIv3\DotnetAPI\v3.8.9.2\bin\Bloomberglp.Blpapi.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
